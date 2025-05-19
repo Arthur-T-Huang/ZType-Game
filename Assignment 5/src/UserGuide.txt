@@ -1,0 +1,22 @@
+User Guide On How To Play ZType:
+
+Extra Credit: 
+-  Added a feature that keeps score during the game and returns the final score in
+   final scene (score increases each time a correct letter is typed).
+-  Improved animation to be more fluid (improved frame rate for game)
+-  Enhanced background graphics in the game background and in the ending scene
+
+
+Our ZType game is played by simply typing the letters of randomly generated words
+that appear on the screen. There will be multiple words on the screen throughout the 
+game, however you can only type the letters of one of the words at a time.
+As you type the corresponding letters for the word, they will be removed from the 
+word and when the full word is typed out, it will be fully removed from the screen.
+If there are two or more words on the screen that start with the same letter, the program
+will begin removing letters from the word that is closest to the bottom of the screen.
+If a word is not typed out fully before it hits the bottom of the screen then the game
+will end with a game over screen.
+
+Disclaimer: the images for the game are stored within the zip file, however in the events
+that the images do not load properly, the game will continue to run just without 
+the presence of the images.
